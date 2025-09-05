@@ -1,18 +1,4 @@
 
-Alternar barra lateral
-
-BLACKBOXAI
-
-Novo
-
-Compartilhar
-
-
-
-
-
-
-
                     <h4>Slipknot - Iowa (2001)</h4>
                     <p>Um marco de intensidade, com riffs caóticos e temas sombrios.</p>
                 </div>
